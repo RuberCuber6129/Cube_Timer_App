@@ -11,7 +11,7 @@ class RubiksCubeApp:
     def main_menu(self):
         while True:
             os.system('cls' if os.name == 'nt' else 'clear')  # Clear the console
-            print("===== RUBIK'S CUBE TIMER =====")
+            print("hi===== RUBIK'S CUBE TIMER =====")
             print("1. Start Timer")
             print("2. View Solve History")
             print("3. Generate Scramble")
